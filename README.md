@@ -1,4 +1,9 @@
-### Hi there 👋
+### ____ 개발자 박지은입니다.
+- 상호 관계를 이해하는 것을 좋아하는
+- 깔끔한 문서 작성을 선호하는
+- 꾸준함을 중시하는
+- 책임감이 강한
+- 자기계발을 즐기는
 
 <!--
 **je-pa/je-pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
