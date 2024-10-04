@@ -35,15 +35,15 @@
     
 ### Self Study
 
-[개인 블로그](https://jepa.tistory.com/)
+- [개인 블로그](https://jepa.tistory.com/)
 
-[**동시성 이슈 해결 알아보기**](https://github.com/je-pa/concurrency-stock)
+- [**동시성 이슈 해결 알아보기**](https://github.com/je-pa/concurrency-stock)
 
-[선착순 시스템](https://github.com/je-pa/firstcome-coupon-system)
+- [선착순 시스템](https://github.com/je-pa/firstcome-coupon-system)
 
-[SOLID 원칙 적용하기](https://github.com/je-pa/solid)
+- [SOLID 원칙 적용하기](https://github.com/je-pa/solid)
 
-[테스트 코드 공부](https://github.com/je-pa/cafekiosk/tree/master/doc)
+- [테스트 코드 공부](https://github.com/je-pa/cafekiosk/tree/master/doc)
 
 <!--
 **je-pa/je-pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
