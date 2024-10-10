@@ -11,7 +11,7 @@
 
 - **문화 메이트 모임 소셜 플랫폼 (with me)** | 5명 | [Github Link](https://github.com/WithUS-ZB), [시연영상](https://www.youtube.com/watch?v=ORR7xq-WbJk) | 2024.04.22 ~ 2024.05.30
 
-- **여행 기록 SNS 플랫폼 (BKNK)** | 팀원: 3명 | 팀장 | [Notion Link](https://www.notion.so/dacf367f2a7f4c9c8e2e4ec233b8de5c?pvs=21), [Github Link](https://github.com/je-pa/bknk) | 기간: 2021.07.14 ~ 2021.08.18
+- **여행 기록 SNS 플랫폼 (BKNK)** | 3명 | 팀장 | [Notion Link](https://www.notion.so/dacf367f2a7f4c9c8e2e4ec233b8de5c?pvs=21), [Github Link](https://github.com/je-pa/bknk) | 2021.07.14 ~ 2021.08.18
 
 ### 프로젝트 | Personal
 
