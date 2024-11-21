@@ -1,7 +1,7 @@
 <h3>____ 개발자 박지은입니다.<a href="https://github.com/devxb/gitanimals">
   <img 
     src="https://render.gitanimals.org/lines/je-pa"
-    width="50"
+    width="300"
     height="40"
   />
 </a></h3> 
