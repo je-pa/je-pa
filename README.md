@@ -1,4 +1,11 @@
-### ____ 개발자 박지은입니다.
+<h3>____ 개발자 박지은입니다.<a href="https://github.com/devxb/gitanimals">
+  <img 
+    src="https://render.gitanimals.org/lines/je-pa"
+    width="50"
+    height="40"
+  />
+</a></h3> 
+
 - 이해 관계 분석을 좋아하는
 - 깔끔한 문서 작성을 선호하는
 - 꾸준함을 중시하는
@@ -45,6 +52,8 @@
 
 - [테스트 코드 공부](https://github.com/je-pa/cafekiosk/tree/master/doc)
 
+
+  
 <!--
 **je-pa/je-pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
