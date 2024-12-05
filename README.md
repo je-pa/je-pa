@@ -1,4 +1,4 @@
-## ____ Developer Ji-Eun Park
+## 👩🏻‍💻 Developer Ji-Eun Park
 
 Hello, I am Ji-Eun Park, a developer who enjoys analyzing stakeholder relationships. </br>
 I am responsible, prefer clean and organized documentation, and believe in the power of consistency. </br>
