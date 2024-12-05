@@ -13,6 +13,7 @@ I aim to continue growing and improving through self-driven challenges and persi
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=je-pa&theme=dark&show_icons=true)
 <a href="https://github.com/devxb/gitanimals">
