@@ -18,7 +18,7 @@ I aim to continue growing and improving through self-driven challenges and persi
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/je-pa?pet-id=647440369937794711"
-    width="500"
+    width="300"
     height="120"
   />
 </a>
