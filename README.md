@@ -1,17 +1,28 @@
-<h3>____ 개발자 박지은입니다.<a href="https://github.com/devxb/gitanimals">
-  <img 
-    src="https://render.gitanimals.org/lines/je-pa"
-    width="300"
-    height="40"
+## ____ Developer Ji-Eun Park
+
+Hello, I am Ji-Eun Park, a developer who enjoys analyzing stakeholder relationships. </br>
+I am responsible, prefer clean and organized documentation, and believe in the power of consistency. </br>
+I aim to continue growing and improving through self-driven challenges and persistent effort.</br>
+
+<div>
+
+<!--
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+-->
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)</br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=je-pa&theme=dark&show_icons=true)
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/je-pa?pet-id=647440369937794711"
+    width="500"
+    height="120"
   />
-</a></h3> 
-
-- 이해 관계 분석을 좋아하는
-- 깔끔한 문서 작성을 선호하는
-- 꾸준함을 중시하는
-- 책임감이 강한
-- 자기계발을 즐기는
-
+</a>
+  
 ### 프로젝트 | Team
 
 - **Spring 기반 실시간 경매 웹 플랫폼 (Goods Ending)** | 6명 | 팀장 | 백엔드 | [Github Link](https://github.com/goods-ending/goodsending-be), [시연영상](https://www.youtube.com/watch?v=0cbSPnoaRMQ) | 2024.07.19 ~ 2024.08.16
@@ -51,6 +62,8 @@
 - [SOLID 원칙 적용하기](https://github.com/je-pa/solid)
 
 - [테스트 코드 공부](https://github.com/je-pa/cafekiosk/tree/master/doc)
+
+
 
 
   
