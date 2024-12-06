@@ -20,7 +20,7 @@ I aim to continue growing and improving through self-driven challenges and persi
   <img
     src="https://render.gitanimals.org/lines/je-pa?pet-id=647440369937794711"
     width="300"
-    height="120"
+    height="195"
   />
 </a>
   
