@@ -16,10 +16,11 @@ I aim to continue growing and improving through self-driven challenges and persi
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=je-pa&theme=dark&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=je_pa)](https://solved.ac/je_pa/)
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/je-pa?pet-id=647440369937794711"
-    width="300"
+    width="170"
     height="195"
   />
 </a>
