@@ -6,22 +6,24 @@ I aim to continue growing and improving through self-driven challenges and persi
 
 <div>
 
-<!--
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
--->
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)</br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=je-pa&theme=dark&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=je_pa)](https://solved.ac/je_pa/)
+
+<img
+    src="https://github-readme-stats.vercel.app/api?username=je-pa&theme=dark&show_icons=true"
+    height="150"
+  />
+<img
+    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=je_pa"
+    height="150"
+  />
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/je-pa?pet-id=647440369937794711"
     width="170"
-    height="195"
+    height="170"
   />
 </a>
   
@@ -68,7 +70,12 @@ I aim to continue growing and improving through self-driven challenges and persi
 
 
 
-
+<!--
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=je-pa&theme=dark&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=je_pa)](https://solved.ac/je_pa/)
+-->
   
 <!--
 **je-pa/je-pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
