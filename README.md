@@ -37,7 +37,7 @@ I aim to continue growing and improving through self-driven challenges and persi
 
 ### 프로젝트 | Personal
 
-- **Spring Cloud를 활용한 이커머스 플랫폼** | 개인 | 백엔드 | [Github Link](https://github.com/je-pa/ecommerce) | 2024.07.19 ~ 2024.08.16
+- **Spring Cloud를 활용한 이커머스 플랫폼** | 개인 | 백엔드 | [Github Link](https://github.com/je-pa/ecommerce) | 2024.08.21 ~ 2024.09.26 
 <!--
 - **강습 예약 시스템 (FitMate)** | 개인 | 백엔드 | [Github Link](https://github.com/je-pa/deug-geun)
 
