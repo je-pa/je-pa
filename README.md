@@ -15,10 +15,12 @@ I aim to continue growing and improving through self-driven challenges and persi
     src="https://github-readme-stats.vercel.app/api?username=je-pa&theme=dark&show_icons=true"
     height="150"
   />
+<a href="https://solved.ac/profile/je_pa">
 <img
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=je_pa"
     height="150"
   />
+</a>
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/je-pa?pet-id=647440369937794711"
