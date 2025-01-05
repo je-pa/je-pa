@@ -31,7 +31,7 @@ I aim to continue growing and improving through self-driven challenges and persi
   
 ### 프로젝트 | Team
 
-- **Spring 기반 실시간 경매 웹 플랫폼 (Goods Ending)** | 6명 | 팀장 | 백엔드 | [Github Link](https://github.com/goods-ending/goodsending-be), [시연영상](https://www.youtube.com/watch?v=0cbSPnoaRMQ) | 2024.07.19 ~ 2024.08.16
+- **Spring 기반 실시간 경매 웹 플랫폼 (Goods Ending)** | 6명 | 팀장 | [Github Link](https://github.com/goods-ending/goodsending-be), [시연영상](https://www.youtube.com/watch?v=0cbSPnoaRMQ) | 2024.07.19 ~ 2024.08.16
 
 - **문화 메이트 모임 소셜 플랫폼 (with me)** | 5명 | [Github Link](https://github.com/WithUS-ZB), [시연영상](https://www.youtube.com/watch?v=ORR7xq-WbJk) | 2024.04.22 ~ 2024.05.30
 
