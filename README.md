@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Developer Ji-Eun Park
+## 👩🏻‍💻 Developer Ji-Eun Park [blog](https://jepa.tistory.com/)
 
 Hello, I am Ji-Eun Park, a developer who enjoys analyzing stakeholder relationships. </br>
 I am responsible, prefer clean and organized documentation, and believe in the power of consistency. </br>
@@ -59,16 +59,16 @@ I aim to continue growing and improving through self-driven challenges and persi
 - **Operating Systems Study** | [스터디 링크](https://www.notion.so/0cc68ea141e44bddbe2b57e99135622d?pvs=21) | 2024.02.15 ~ 2024.03.20  
     
 ### Self Study
-
-- [개인 블로그](https://jepa.tistory.com/)
-
-- [**동시성 이슈 해결 알아보기**](https://github.com/je-pa/concurrency-stock)
-
-- [선착순 시스템](https://github.com/je-pa/firstcome-coupon-system)
-
-- [SOLID 원칙 적용하기](https://github.com/je-pa/solid)
-
-- [테스트 코드 공부](https://github.com/je-pa/cafekiosk/tree/master/doc)
+ <details>
+   <summary>개인 링크 모음</summary>
+   <ul>
+     <li>[동시성 이슈 해결 알아보기](https://github.com/je-pa/concurrency-stock)</li>
+     <li>[선착순 시스템](https://github.com/je-pa/firstcome-coupon-system)</li>
+     <li>[SOLID 원칙 적용하기](https://github.com/je-pa/solid)</li>
+     <li>[테스트 코드 공부](https://github.com/je-pa/cafekiosk/tree/master/doc)</li>
+     <li>[Redis](https://github.com/je-pa/redis-prac/issues?q=is%3Aissue%20state%3Aclosed)</li>
+   </ul>
+ </details>
 
 
 
