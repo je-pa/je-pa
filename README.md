@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Developer Ji-Eun Park [blog](https://jepa.tistory.com/)
+## 👩🏻‍💻 Developer Ji-Eun Park
 
 Hello, I am Ji-Eun Park, a developer who enjoys analyzing stakeholder relationships. </br>
 I am responsible, prefer clean and organized documentation, and believe in the power of consistency. </br>
@@ -58,7 +58,7 @@ I aim to continue growing and improving through self-driven challenges and persi
 
 - **Operating Systems Study** | [스터디 링크](https://www.notion.so/0cc68ea141e44bddbe2b57e99135622d?pvs=21) | 2024.02.15 ~ 2024.03.20  
     
-### Self Study
+### Self Study | [blog link](https://jepa.tistory.com/)
  <details>
    <summary>개인 링크 모음</summary>
    <ul>
