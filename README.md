@@ -62,7 +62,7 @@ I aim to continue growing and improving through self-driven challenges and persi
  <details>
    <summary>개인 링크 모음</summary>
    <ul>
-     <li><a href="https://github.com/je-pa/concurrency-stock">동시성 이슈 해결 알아보기</a>[]()</li>
+     <li><a href="https://github.com/je-pa/concurrency-stock">동시성 이슈 해결 알아보기</a></li>
      <li><a href="https://github.com/je-pa/firstcome-coupon-system">선착순 시스템</a></li>
      <li><a href="https://github.com/je-pa/solid">SOLID 원칙 적용하기</a></li>
      <li><a href="https://github.com/je-pa/cafekiosk/tree/master/doc">테스트 코드 공부</a></li>
